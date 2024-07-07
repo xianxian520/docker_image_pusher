@@ -2,3 +2,4 @@ wurstmeister/zookeeper
 mysql:8.0
 redis
 bitnami/kafka
+provectuslabs/kafka-ui
