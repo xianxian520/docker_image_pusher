@@ -1,9 +1,2 @@
-wurstmeister/zookeeper
-mysql:8.0
-redis
-bitnami/kafka
-provectuslabs/kafka-ui
-zookeeper:3.8
-wurstmeister/kafka:2.13-2.8.1
-nginx
-openjdk:17
+
+jenkins/jenkins
