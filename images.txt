@@ -9,4 +9,5 @@
 #openjdk:17
 #jenkins/jenkins
 #keking/kkfileview:4.1.0
-onlyoffice/documentserver
+#onlyoffice/documentserver
+mysql:5.7
