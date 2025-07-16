@@ -11,4 +11,4 @@
 #keking/kkfileview:4.1.0
 #onlyoffice/documentserver
 #mysql:5.7
-openjdk:17
+openjdk:8
