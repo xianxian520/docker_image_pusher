@@ -12,4 +12,5 @@
 #onlyoffice/documentserver
 #mysql:5.7
 #openjdk:8
-ghcr.io/dockur/windows-arm:4.35
+#ghcr.io/dockur/windows-arm:4.35
+ghcr.io/dockur/windows:4.35
