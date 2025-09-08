@@ -11,5 +11,5 @@
 #keking/kkfileview:4.1.0
 #onlyoffice/documentserver
 #mysql:5.7
-openjdk:8
-#windows-arm:4.35
+#openjdk:8
+ghcr.io/dockur/windows-arm:4.35
