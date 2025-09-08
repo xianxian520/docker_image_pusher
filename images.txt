@@ -12,4 +12,4 @@
 #onlyoffice/documentserver
 #mysql:5.7
 #openjdk:8
-dmsoft/dmdb:8
+windows-arm:4.35
