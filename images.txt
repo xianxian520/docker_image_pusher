@@ -15,4 +15,5 @@
 #ghcr.io/dockur/windows-arm:4.35
 #ghcr.io/dockur/windows:4.35
 #bestzwei/libretv
-tomcat:8
+#tomcat:8
+homeassistant/home-assistant
