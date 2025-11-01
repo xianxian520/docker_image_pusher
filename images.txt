@@ -16,4 +16,5 @@
 #ghcr.io/dockur/windows:4.35
 #bestzwei/libretv
 #tomcat:8
-homeassistant/home-assistant
+#homeassistant/home-assistant
+ghcr.io/docker-mailserver/docker-mailserver:15.0.0
