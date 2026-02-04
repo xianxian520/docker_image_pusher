@@ -17,4 +17,5 @@
 #bestzwei/libretv
 #tomcat:8
 #homeassistant/home-assistant
-ghcr.io/docker-mailserver/docker-mailserver:15.0.0
+#ghcr.io/docker-mailserver/docker-mailserver:15.0.0
+jiulingyun803/openclaw-cn:latest
