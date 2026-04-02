@@ -1,4 +1,4 @@
-#wurstmeister/zookeeper
+##wurstmeister/zookeeper
 #mysql:8.0
 #redis
 #bitnami/kafka
@@ -18,4 +18,5 @@
 #tomcat:8
 #homeassistant/home-assistant
 #ghcr.io/docker-mailserver/docker-mailserver:15.0.0
-jiulingyun803/openclaw-cn:latest
+#jiulingyun803/openclaw-cn:latest
+dm8_single:dm8_latest_x86_rh6_64
