@@ -20,5 +20,6 @@
 #ghcr.io/docker-mailserver/docker-mailserver:15.0.0
 #jiulingyun803/openclaw-cn:latest
 #dm8_single:dm8_20251203_x86_Ubuntu22_64
-mcr.microsoft.com/mssql/server:2017-latest
-ubuntu:22.04
+#mcr.microsoft.com/mssql/server:2017-latest
+#ubuntu:22.04
+docker.io/library/postgres:16.14
